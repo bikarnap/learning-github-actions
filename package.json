@@ -17,7 +17,5 @@
     "url": "https://github.com/bikarnap/learning-github-actions/issues"
   },
   "homepage": "https://github.com/bikarnap/learning-github-actions#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "dependencies": {}
 }
